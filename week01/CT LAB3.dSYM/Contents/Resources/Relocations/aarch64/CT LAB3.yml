@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nandinikoneti/coding-cafe/week01/CT LAB3'
+relocations:     []
+...
